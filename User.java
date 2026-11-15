@@ -1,6 +1,6 @@
 // klasa uzytkownika
 public class User {
-    String name;
+    String fullName;
     int age;
     String email;
 }
