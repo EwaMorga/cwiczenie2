@@ -2,5 +2,5 @@
 public class User {
     String firstName;
     int age;
-    String email;
+    String emailAddress;
 }
